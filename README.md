@@ -19,6 +19,8 @@
    
   #Running the project  
   - $ npm start  
+  
+  Your app should now be running on 4000  
  
  ##Project Structure  
  .  
