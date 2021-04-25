@@ -17,6 +17,10 @@
   - $ cd foodApplication    
   - $ npm install  
   
+  #Create log file under foodApplication folder  
+  - $ mkdir log  
+  - $ gedit app.log  
+  
   #Running the project  
   - $ npm start  
  
