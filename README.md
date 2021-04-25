@@ -16,11 +16,7 @@
   - $ git clone https://github.com/fubuk-i/foodApplication.git   
   - $ cd foodApplication    
   - $ npm install  
-  
-  #Create log file under foodApplication folder  
-  - $ mkdir log  
-  - $ gedit app.log  
-  
+   
   #Running the project  
   - $ npm start  
  
